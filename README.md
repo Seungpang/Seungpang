@@ -21,7 +21,13 @@
     + Fix typo in documentation
 + Spring Boot
   + [PR] [spring-projects/spring-boot#40967](https://github.com/spring-projects/spring-boot/pull/40967#issue-2327815336)
-    + Replace hard-coded links to Micrometer in documentation     
+    + Replace hard-coded links to Micrometer in documentation
++ Spring Kafka
+  + [PR] [spring-projects/spring-kafka#3282](https://github.com/spring-projects/spring-kafka/pull/3282#issue-2317660924)
+    + Fix deprecated Kafka Streams API in example code       
++ Tracing
+  + [Issue] [micrometer-metrics/tracing#731](https://github.com/micrometer-metrics/tracing/issues/731)
+    + Publish recent documentation under a fixed version number
 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
