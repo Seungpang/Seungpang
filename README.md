@@ -7,6 +7,22 @@
 [Generate Your Own ClickMe](https://clickme.today/main)
 </br>
 
+:octocat: Contributions
++ Spring Batch
+  + [PR] [spring-projects/spring-batch#4582](https://github.com/spring-projects/spring-batch/pull/4582#issue-2260912149)
+    + Fix code sample that uses deprecated StepBuilderFactory
+  + [PR] [spring-projects/spinrg-batch#4601](https://github.com/spring-projects/spring-batch/pull/4601#issue-2311183650)
+    + Use Threadlocal.remove() instead of Threadlocal.set(null)
++ Spring Framework
+  + [PR] [spring-projects/spring-framework#32874](https://github.com/spring-projects/spring-framework/pull/32874#issue-2311094986)
+    + Use Threadlocal.remove() instead of .set(null) in documentation
++ Spring Data JPA
+  + [PR] [spring-projects/spring-data-jpa#3489](https://github.com/spring-projects/spring-data-jpa/pull/3489#issue-2321063008)
+    + Fix typo in documentation
++ Spring Boot
+  + [PR] [spring-projects/spring-boot#40967](https://github.com/spring-projects/spring-boot/pull/40967#issue-2327815336)
+    + Replace hard-coded links to Micrometer in documentation     
+
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
