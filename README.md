@@ -9,10 +9,10 @@
 
 :octocat: Contributions
 + Spring Batch
-  + [PR] [spring-projects/spring-batch#4582](https://github.com/spring-projects/spring-batch/pull/4582#issue-2260912149)
-    + Fix code sample that uses deprecated StepBuilderFactory
   + [PR] [spring-projects/spinrg-batch#4601](https://github.com/spring-projects/spring-batch/pull/4601#issue-2311183650)
     + Use Threadlocal.remove() instead of Threadlocal.set(null)
+  + [PR] [spring-projects/spring-batch#4582](https://github.com/spring-projects/spring-batch/pull/4582#issue-2260912149)
+    + Fix code sample that uses deprecated StepBuilderFactory
 + Spring Framework
   + [PR] [spring-projects/spring-framework#32874](https://github.com/spring-projects/spring-framework/pull/32874#issue-2311094986)
     + Use Threadlocal.remove() instead of .set(null) in documentation
