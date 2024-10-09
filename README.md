@@ -16,6 +16,8 @@
 + Spring Framework
   + [PR] [spring-projects/spring-framework#32874](https://github.com/spring-projects/spring-framework/pull/32874#issue-2311094986)
     + Use Threadlocal.remove() instead of .set(null) in documentation
+  + [PR] [spring-projects/spring-framework#33669](https://github.com/spring-projects/spring-framework/pull/33669#issue-2573672918)
+    + DurationFormatterUtils should not attempt to parse an empty duration   
 + Spring Data JPA
   + [PR] [spring-projects/spring-data-jpa#3489](https://github.com/spring-projects/spring-data-jpa/pull/3489#issue-2321063008)
     + Fix typo in documentation
